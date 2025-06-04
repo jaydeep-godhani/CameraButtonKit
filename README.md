@@ -9,11 +9,9 @@
 
 A customizable and lightweight camera-style record button for iOS, with support for tap, long-press recording, progress spinner animation, and delegate callbacks.
 
----
-
-https://github.com/yourusername/CameraButtonKit/assets/your-video-id/video.mp4
-
----
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a721367a-0817-454c-bc65-ba390d1e711e" alt="Demo" width="270"/>
+</div>
 
 ## Features
 
